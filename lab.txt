@@ -1,4 +1,4 @@
-Any changes
+This change will cause conflict too
 
 Changes in branch one
 
